@@ -1,0 +1,52 @@
+shot_type_group,type_id,type_text,development_shots
+Dunk,151,Cutting Dunk Shot,9655
+Dunk,116,Running Dunk Shot,8333
+Dunk,115,Driving Dunk Shot,6019
+Dunk,118,Alley Oop Dunk Shot,4969
+Dunk,96,Dunk Shot,4201
+Dunk,150,Tip Dunk Shot,2488
+Dunk,149,Running Alley Oop Dunk Shot,1648
+Dunk,117,Reverse Dunk Shot,332
+Dunk,152,Driving Reverse Dunk Shot,127
+Dunk,153,Running Reverse Dunk Shot,99
+Fadeaway,121,Fade Away Jump Shot,12085
+Fadeaway,137,Turnaround Fade Away Jump Shot,9987
+Fadeaway,135,Fade Away Bank Jump Shot,596
+Fadeaway,148,Turnaround Fadeaway Bank Jump Shot,301
+Floater,144,Driving Floating Jump Shot,35634
+Floater,130,Floating Jump Shot,12054
+Floater,145,Driving Floating Bank Jump Shot,9121
+Hook,120,Turnaround Hook Shot,7335
+Hook,93,Hook Shot,5024
+Hook,119,Driving Hook Shot,4794
+Hook,139,Hook Driving Bank,1014
+Hook,140,Hook Turnaround Bank,657
+Hook,123,Hook Shot Bank,379
+Jump Shot,92,Jump Shot,190458
+Jump Shot,113,Running Jump Shot,16977
+Jump Shot,122,Jump Shot Bank,1239
+Jump Shot,134,Driving Jump Shot Bank,1197
+Layup,110,Driving Layup Shot,57663
+Layup,109,Running Layup Shot,21438
+Layup,128,Driving Finger Roll Layup,17684
+Layup,141,Cutting Layup Shot,16508
+Layup,95,Layup Shot,14776
+Layup,126,Layup Driving Reverse,6706
+Layup,129,Running Finger Roll Layup,4923
+Layup,112,Reverse Layup Shot,3637
+Layup,111,Alley Oop Layup Shot,2331
+Layup,142,Cutting Finger Roll Layup Shot,2127
+Layup,127,Layup Running Reverse,1858
+Layup,124,Finger Roll Layup,1081
+Layup,143,Running Alley Oop Layup Shot,576
+Other,91,No Shot (Default Shot),14
+Pull-Up,131,Pullup Jump Shot,77140
+Pull-Up,146,Running Pullup Jump Shot,8812
+Pull-Up,133,Pullup Bank Jump Shot,1559
+Putback / Tip,94,Tip Shot,14220
+Putback / Tip,125,Layup Shot Putback,10994
+Putback / Tip,138,Putback Dunk Shot,1583
+Step-Back,132,Step Back Jump Shot,33805
+Step-Back,147,Step Back Bank Jump Shot,238
+Turnaround,114,Turnaround Jump Shot,8066
+Turnaround,136,Turnaround Bank Jump Shot,913

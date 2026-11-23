@@ -1,0 +1,11 @@
+listed_file,expected
+app.R,TRUE
+data/app/model_insights_bundle.rds,TRUE
+data/app/shot_chart_data.rds,TRUE
+data/processed/model_final_test.rds,TRUE
+models/final_model_selection_metadata.rds,TRUE
+models/final_xgboost_model.rds,TRUE
+R/app_helpers.R,TRUE
+R/court_helpers.R,TRUE
+renv.lock,TRUE
+www/custom.css,TRUE

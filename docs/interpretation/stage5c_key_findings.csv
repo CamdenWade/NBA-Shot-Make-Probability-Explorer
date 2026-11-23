@@ -1,0 +1,7 @@
+finding_type,headline,detail
+Performance,Restrained XGBoost is the frozen champion,Final holdout log-loss 0.637 and Brier 0.224.
+Generalization,Holdout performance remained stable,Validation log-loss 0.639 versus final-holdout log-loss 0.637.
+Calibration,Overall probability calibration is strong,Mean predicted probability 47.0% versus observed make rate 46.9%.
+Interpretation,Distance is the dominant model driver,Distance to Rim accounts for 39.1% of global TreeSHAP importance.
+Interpretation,Shot type adds substantial information,Shot Type accounts for 21.7% of global TreeSHAP importance.
+Limitation,Late-clock attempts remain the clearest calibration weakness,"Last 5 Seconds / TRUE has the largest major-segment calibration gap at 3.2 percentage points among segments with at least 1,000 shots."

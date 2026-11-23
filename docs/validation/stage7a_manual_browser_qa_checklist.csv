@@ -1,0 +1,14 @@
+area,manual_check,status
+Navigation,All five tabs open without errors,REVIEW MANUALLY
+Probability Explorer,Clicking multiple court locations updates probability and shot details,REVIEW MANUALLY
+Probability Explorer,Changing shot type / period / clock / actions updates probability,REVIEW MANUALLY
+Probability Explorer,Reset Example restores the default scenario,REVIEW MANUALLY
+Interactive Shot Chart,Team filter updates available player choices,REVIEW MANUALLY
+Interactive Shot Chart,Zone / shot type / team / player / result filters all work,REVIEW MANUALLY
+Interactive Shot Chart,"Clicking a plotted shot shows result, probability, player, team, and date",REVIEW MANUALLY
+Model Comparison,Charts and table show three-decimal model metrics,REVIEW MANUALLY
+Calibration & Validation,Reliability and segment-calibration plots render cleanly,REVIEW MANUALLY
+Model Insights,TreeSHAP / Gain toggle works,REVIEW MANUALLY
+Responsive Layout,"At approximately tablet width, cards stack without horizontal overflow",REVIEW MANUALLY
+Responsive Layout,"At approximately phone width, KPI/detail cards stack into one column",REVIEW MANUALLY
+General,Browser console / R console shows no recurring errors or warnings during use,REVIEW MANUALLY

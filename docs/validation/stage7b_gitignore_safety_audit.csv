@@ -1,0 +1,7 @@
+required_entry,present
+.Renviron,TRUE
+.env,TRUE
+.Rproj.user/,TRUE
+renv/library/,TRUE
+renv/staging/,TRUE
+data/raw/,TRUE

@@ -1,0 +1,2 @@
+hoopr_season,nba_season,espn_game_id,game_date,away_team,home_team,expected_regular_season_games,games_available_in_hoopr_shot_release,missing_games,treatment
+2026,2025-26,401810469,2026-01-20,LAC,CHI,1230,1229,1,Document source gap; do not impute or mix providers. Game is present in schedule metadata but absent from hoopR shot release.

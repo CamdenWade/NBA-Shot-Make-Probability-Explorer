@@ -1,0 +1,36 @@
+feature,level
+three_region,Two-Point
+three_region,Above-the-Break 3
+three_region,Corner 3
+shot_zone_geometry,Mid-Range
+shot_zone_geometry,Above-the-Break 3
+shot_zone_geometry,Paint (Non-RA)
+shot_zone_geometry,Restricted Area
+shot_zone_geometry,Corner 3
+shot_zone_geometry,Heave / Backcourt
+distance_band,16-22 ft
+distance_band,24-30 ft
+distance_band,4-8 ft
+distance_band,0-4 ft
+distance_band,22-24 ft
+distance_band,8-16 ft
+distance_band,30-40 ft
+distance_band,40+ ft
+shot_type_group,Pull-Up
+shot_type_group,Jump Shot
+shot_type_group,Layup
+shot_type_group,Step-Back
+shot_type_group,Floater
+shot_type_group,Turnaround
+shot_type_group,Putback / Tip
+shot_type_group,Dunk
+shot_type_group,Hook
+shot_type_group,Fadeaway
+period_group,Q1
+period_group,Q2
+period_group,Q3
+period_group,Q4
+period_group,OT
+game_phase,First Half
+game_phase,Second Half
+game_phase,Overtime

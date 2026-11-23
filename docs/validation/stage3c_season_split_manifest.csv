@@ -1,0 +1,5 @@
+hoopr_season,nba_season,fold1,fold2,final
+2023,2022-23,train,train,train
+2024,2023-24,validation,train,train
+2025,2024-25,not_used,validation,train
+2026,2025-26,untouched,untouched,test

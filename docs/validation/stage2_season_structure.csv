@@ -1,0 +1,5 @@
+hoopr_season,nba_season,role,rows,games,players,teams,coordinate_x_missing_pct,coordinate_y_missing_pct,game_date_range
+2023,2022-23,development_train,294914,1321,538,32,0,0,NA
+2024,2023-24,development_validation,291139,1320,568,32,0,0,NA
+2025,2024-25,development_validation,292933,1324,566,34,0,0,NA
+2026,2025-26,final_untouched_test,298411,1325,582,33,0,0,NA

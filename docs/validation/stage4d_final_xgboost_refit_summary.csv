@@ -1,0 +1,2 @@
+development_rows,internal_fit_rows,internal_early_stop_rows,internal_cutoff_date,selected_rounds,best_internal_logloss,round_selection_source
+655361,585277,70084,2025-02-22,347,0.6410139452354664,xgb.attr

@@ -1,0 +1,8 @@
+package,installed,version
+shiny,TRUE,1.15.0
+dplyr,TRUE,1.2.1
+ggplot2,TRUE,4.0.4
+Matrix,TRUE,1.7.4
+scales,TRUE,1.4.0
+tibble,TRUE,3.3.1
+xgboost,TRUE,3.2.1.1

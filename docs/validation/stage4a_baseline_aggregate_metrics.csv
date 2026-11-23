@@ -1,0 +1,3 @@
+model,weighted_log_loss,weighted_brier,weighted_mean_predicted_probability,weighted_observed_make_rate,validation_rows,log_loss_improvement_vs_constant,brier_improvement_vs_constant
+logistic_baseline,0.647831215860663,0.22885052753874638,0.47214240920305217,0.47078193995960793,438205,0.04364193547369677,0.020312896255928553
+constant_prevalence,0.6914731513343597,0.24916342379467493,0.4751283835274944,0.47078193995960793,438205,0,0

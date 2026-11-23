@@ -1,0 +1,3 @@
+fold,train_rows,internal_fit_rows,internal_early_stop_rows,internal_cutoff_date,selected_rounds,best_internal_logloss,round_selection_source
+fold1,217156,192451,24705,2023-03-22,447,0.6385367271924485,xgb.attr
+fold2,435838,388506,47332,2024-03-10,685,0.6373960991019504,xgb.attr

@@ -1,0 +1,10 @@
+file,exists,size_bytes,size_mib
+app.R,TRUE,48343,0.046103477478027344
+R/app_helpers.R,TRUE,2139,0.0020399093627929688
+R/court_helpers.R,TRUE,8894,0.0084819793701171875
+www/custom.css,TRUE,4954,0.0047245025634765625
+data/app/model_insights_bundle.rds,TRUE,7000,0.00667572021484375
+data/app/shot_chart_data.rds,TRUE,2271396,2.1661720275878906
+data/processed/model_final_test.rds,TRUE,1952852,1.8623847961425781
+models/final_xgboost_model.rds,TRUE,119884,0.11433029174804688
+models/final_model_selection_metadata.rds,TRUE,1664,0.0015869140625

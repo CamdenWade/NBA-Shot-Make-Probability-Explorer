@@ -1,0 +1,11 @@
+check,passed
+Final-test feature artifact remains blinded (no outcome),TRUE
+Frozen selected model remains restrained XGBoost,TRUE
+Shot-chart rows match frozen final-test rows,TRUE
+Shot-chart outcome is complete,TRUE
+Shot-chart probability is complete,TRUE
+Shot-chart contains all 30 teams,TRUE
+Shot-chart contains at least 500 shooters,TRUE
+Model-insight bundle contains performance section,TRUE
+Model-insight bundle contains calibration section,TRUE
+Model-insight bundle contains feature importance section,TRUE

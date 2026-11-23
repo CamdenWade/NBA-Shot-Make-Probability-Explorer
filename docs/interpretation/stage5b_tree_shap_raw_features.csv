@@ -1,0 +1,33 @@
+Feature,mean_abs_shap,mean_shap,source_feature
+distance_to_rim_check_ft,0.3332952895173547,0.021435548563345803,distance_to_rim_check_ft
+shot_type_groupDunk,0.12946199270561337,0.02179959569141269,shot_type_group
+court_x_folded,0.06690626003332528,-0.006864902884215166,court_x_folded
+absolute_angle_deg,0.04344479046871878,0.0031249787510773605,absolute_angle_deg
+is_cuttingTRUE,0.03316307237297297,-0.0010023864117264748,is_cutting
+is_three_geometryFALSE,0.03226611922957003,0.0018649645406752825,is_three_geometry
+is_runningTRUE,0.030784563168548048,5.670690530911088e-4,is_running
+clock_seconds_remaining,0.030610801101123,-0.002054211218727214,clock_seconds_remaining
+is_drivingTRUE,0.029209066238738597,0.0025041005398333074,is_driving
+shot_type_groupLayup,0.0267366002645138,-0.011417609166893598,shot_type_group
+is_bank_shotTRUE,0.018349814456235618,-0.002273929801713675,is_bank_shot
+period_number,0.014678840097279025,6.286777777509996e-5,period_number
+court_y_folded,0.011180384343513834,-0.001405476158950005,court_y_folded
+shot_type_groupJump Shot,0.007156241211018642,0.0018977741000818786,shot_type_group
+shot_type_groupFadeaway,0.006788549005776367,0.0014983786481402785,shot_type_group
+shot_type_groupFloater,0.0064318554819608785,-0.001376903333470318,shot_type_group
+is_alley_oopTRUE,0.005465635654430371,4.5133282065624373e-4,is_alley_oop
+is_home_shooterTRUE,0.005443852166835568,1.5345150680514052e-5,is_home_shooter
+shot_type_groupPutback / Tip,0.004944083527036383,-0.0018217369386319842,shot_type_group
+is_three_geometryTRUE,0.004091923207707004,-1.0923696366953663e-4,is_three_geometry
+is_turnaroundTRUE,0.002342365105340814,-1.5954741056211787e-5,is_turnaround
+is_last_5_seconds_periodTRUE,0.0019970411170623266,-1.2859314631903545e-4,is_last_5_seconds_period
+shot_type_groupTurnaround,0.001655141038711008,2.2567765259853332e-4,shot_type_group
+is_fadeawayTRUE,0.001305420624667022,2.954493712607655e-4,is_fadeaway
+is_last_24_seconds_periodTRUE,0.0010063810097798705,-5.729957532137632e-5,is_last_24_seconds_period
+shot_type_groupHook,9.680648232028216e-4,-1.2945933774148217e-4,shot_type_group
+shot_type_groupStep-Back,8.379673789879234e-4,1.167117700726385e-4,shot_type_group
+is_last_2_minutes_periodTRUE,6.888716244330135e-4,6.952663462579949e-6,is_last_2_minutes_period
+is_putbackTRUE,6.492880585712192e-4,-1.7326061962881796e-4,is_putback
+is_overtimeTRUE,2.750881241742718e-4,4.65864270894599e-6,is_overtime
+is_corner_three_geometryTRUE,2.713523797097514e-4,-6.700424533180921e-5,is_corner_three_geometry
+is_heaveTRUE,0,0,is_heave

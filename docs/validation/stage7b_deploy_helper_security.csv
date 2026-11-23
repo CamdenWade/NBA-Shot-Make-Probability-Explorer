@@ -1,0 +1,6 @@
+pattern,found,passed
+setAccountInfo(,FALSE,TRUE
+token =,FALSE,TRUE
+secret =,FALSE,TRUE
+apiKey =,FALSE,TRUE
+api_key =,FALSE,TRUE

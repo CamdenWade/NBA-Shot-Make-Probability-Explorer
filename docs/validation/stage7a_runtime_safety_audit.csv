@@ -1,0 +1,9 @@
+pattern,rationale,found,passed
+xgb.train(,No XGBoost training should occur inside the deployed app,FALSE,TRUE
+mgcv::bam(,No GAM training should occur inside the deployed app,FALSE,TRUE
+mgcv::gam(,No GAM training should occur inside the deployed app,FALSE,TRUE
+glm(,No regression fitting should occur inside the deployed app,FALSE,TRUE
+load_nba_shots(,No raw shot acquisition should occur inside the deployed app,FALSE,TRUE
+espn_nba_pbp(,No live ESPN PBP acquisition should occur inside the deployed app,FALSE,TRUE
+hoopR::,No hoopR data calls should occur inside the deployed app,FALSE,TRUE
+install.packages(,The deployed app should not install packages at runtime,FALSE,TRUE

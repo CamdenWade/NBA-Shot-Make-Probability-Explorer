@@ -1,0 +1,55 @@
+feature,role,rationale
+outcome,target_only,Binary make/miss response; never a predictor.
+shot_id,identifier_only,Stable row identifier.
+game_id,identifier_only,Game identifier for audit/grouping.
+game_date,identifier_only,Game date for chronology and audit.
+hoopr_season,split_only,Locked chronological split variable.
+nba_season,split_only,Human-readable chronological split variable.
+court_x_folded,candidate_predictive,Folded half-court x coordinate for spatial models.
+court_y_folded,candidate_predictive,Folded half-court y coordinate for spatial models.
+distance_to_rim_check_ft,candidate_predictive,Primary continuous shot-distance feature.
+shot_angle_rad,candidate_predictive,Signed shot angle for spatial/nonlinear models.
+absolute_angle_deg,candidate_predictive,Absolute shot angle for interpretable models.
+is_three_geometry,candidate_predictive,2PT/3PT attempt value derived from court geometry.
+is_corner_three_geometry,candidate_predictive,Corner-three geometry indicator.
+three_region,candidate_predictive,Interpretable two/corner-three/above-break grouping.
+is_heave,candidate_predictive,Geometry-based long-heave indicator; preferred over source label.
+in_restricted_area_geometry,candidate_predictive,Restricted-area geometry indicator.
+in_paint_geometry,candidate_predictive,Paint geometry indicator.
+shot_zone_geometry,candidate_predictive,Interpretable spatial zone.
+distance_band,candidate_predictive,Interpretable distance grouping.
+shot_type_group,candidate_predictive,Stable grouped pre-shot action family.
+is_bank_shot,candidate_predictive,Pre-shot action descriptor.
+is_driving,candidate_predictive,Pre-shot action descriptor.
+is_running,candidate_predictive,Pre-shot action descriptor.
+is_cutting,candidate_predictive,Pre-shot action descriptor.
+is_alley_oop,candidate_predictive,Pre-shot action descriptor.
+is_putback,candidate_predictive,Pre-shot action descriptor.
+is_turnaround,candidate_predictive,Pre-shot action descriptor.
+is_fadeaway,candidate_predictive,Pre-shot action descriptor.
+period_number,candidate_predictive,Game period known before shot.
+clock_seconds_remaining,candidate_predictive,Game clock known before shot.
+is_overtime,candidate_predictive,Overtime context.
+period_group,candidate_predictive,Interpretable quarter/overtime grouping.
+game_phase,candidate_predictive,First-half/second-half/overtime grouping.
+is_last_2_minutes_period,candidate_predictive,End-period context.
+is_last_24_seconds_period,candidate_predictive,End-period context.
+is_last_5_seconds_period,candidate_predictive,End-period context.
+is_home_shooter,candidate_predictive,Home/away context.
+team_id,exploration_only,High-cardinality identity; retain for exploration only.
+team_abbrev,exploration_only,Source team label; retain for app filtering.
+team_abbrev_canonical,exploration_only,Canonical team label; retain for app filtering.
+shooter_id,exploration_only,High-cardinality identity; not in core model.
+shooter_name,exploration_only,Display/filter field only.
+venue_side,exploration_only,Display-friendly home/away label; binary predictor uses is_home_shooter.
+type_id,source_label_only,Raw ESPN taxonomy ID can change across seasons.
+type_text,source_label_only,Raw ESPN taxonomy changed in 2025-26; grouped feature is preferred.
+coordinate_x,provenance_only,Original full-court coordinate retained for traceability.
+coordinate_y,provenance_only,Original full-court coordinate retained for traceability.
+coordinate_x_raw,provenance_only,Raw provider coordinate retained for traceability.
+coordinate_y_raw,provenance_only,Raw provider coordinate retained for traceability.
+distance_to_rim_ft,provenance_only,Stage 2 distance retained only as reconstruction reference.
+score_value,prohibited_leakage,Outcome leakage in ESPN shot release.
+source_score_value,prohibited_leakage,Outcome leakage in ESPN shot release.
+scoring_play,prohibited_leakage,Outcome indicator; prohibited as predictor.
+source_scoring_play,prohibited_leakage,Outcome indicator; prohibited as predictor.

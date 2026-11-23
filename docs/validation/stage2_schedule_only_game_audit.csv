@@ -1,0 +1,14 @@
+hoopr_season,game_id,game_date,home_team_abbrev,away_team_abbrev,notes_headline,notes_type
+2023,401468924,2023-02-01,DET,WSH,,
+2024,401585217,2024-01-19,GS,DAL,,
+2024,401585204,2024-01-17,UTAH,GS,,
+2025,401705183,2025-01-22,NO,MIL,,
+2025,401705103,2025-01-11,LAL,SA,Postponed due to wildfires in Los Angeles,event
+2025,401705104,2025-01-11,LAC,CHA,Postponed due to wildfires in Los Angeles,event
+2025,401705098,2025-01-11,ATL,HOU,Postponed due to severe weather and hazardous icy conditions,event
+2025,401705090,2025-01-09,LAL,CHA,,
+2026,401810507,2026-01-25,MIL,DAL,Makeup date Mar 31,event
+2026,401810506,2026-01-25,MEM,DEN,Makeup date Mar 18,event
+2026,401810499,2026-01-24,MIN,GS,Makeup date Jan 25,event
+2026,401810469,2026-01-20,CHI,LAC,,
+2026,401810384,2026-01-08,CHI,MIA,Postponed due to court condensation. Makeup date Jan 29,event

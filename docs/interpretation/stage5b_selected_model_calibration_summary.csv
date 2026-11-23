@@ -1,0 +1,2 @@
+model,shots,log_loss,brier,mean_predicted_probability,observed_make_rate,calibration_intercept,calibration_slope,expected_calibration_error_20bin,maximum_calibration_error_20bin,mean_signed_calibration_gap_20bin
+xgboost_restrained,220085,0.6372511302897135,0.22417892348855778,0.47002471189927647,0.46860076788513527,-0.006324174055334023,1.026858101372664,0.007572124488099102,0.025549860884253983,-0.0014239440141387348

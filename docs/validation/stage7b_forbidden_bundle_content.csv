@@ -1,0 +1,9 @@
+forbidden_pattern,found_in_manifest,passed
+data/raw/,FALSE,TRUE
+scripts/,FALSE,TRUE
+docs/,FALSE,TRUE
+data/processed/shots_development,FALSE,TRUE
+data/processed/model_development,FALSE,TRUE
+models/stage4,FALSE,TRUE
+.Renviron,FALSE,TRUE
+.env,FALSE,TRUE

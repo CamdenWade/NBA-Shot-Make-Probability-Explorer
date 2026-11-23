@@ -1,0 +1,5 @@
+hoopr_season,nba_season,raw_rows,raw_games,season_type_2_games,nba_cup_championship_games_excluded,nba_regular_games,rows_in_nba_regular_games,free_throw_rows_in_regular_games,non_free_throw_rows,invalid_coordinate_rows,invalid_clock_rows,invalid_period_rows,missing_or_blank_type_rows,invalid_team_rows,game_team_mismatch_rows,exact_duplicate_rows,natural_key_duplicate_rows,processed_fga_rows,processed_games,processed_players
+2023,2022-23,294914,1321,1232,0,1231,275024,57863,217161,0,0,0,0,2,0,0,73,217161,1230,537
+2024,2023-24,291139,1320,1234,1,1232,272117,53430,218687,0,0,0,0,0,0,0,80,218687,1230,568
+2025,2024-25,292933,1324,1239,1,1235,272840,53313,219527,0,0,0,0,0,0,0,49,219527,1230,566
+2026,2025-26,298411,1325,1239,1,1234,277827,57740,220087,0,0,0,0,0,0,0,43,220087,1229,582

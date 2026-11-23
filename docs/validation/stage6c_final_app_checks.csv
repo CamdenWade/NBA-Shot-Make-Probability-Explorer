@@ -1,0 +1,15 @@
+check,passed
+Enriched shot-chart rows match frozen final-test population,TRUE
+Shot-chart outcome remains complete,TRUE
+Shot-chart probability remains complete,TRUE
+Team exploration field is present,TRUE
+Player exploration field is present,TRUE
+At least 30 team values are available for exploration,TRUE
+Player exploration contains non-missing names,TRUE
+Frozen selected model remains restrained XGBoost,TRUE
+One-row frozen-model inference still succeeds,TRUE
+One-row probability is finite and strictly between 0 and 1,TRUE
+app.R parses successfully,TRUE
+R/court_helpers.R parses successfully,TRUE
+R/app_helpers.R parses successfully,TRUE
+Stage 5 model-insight bundle is preserved,TRUE

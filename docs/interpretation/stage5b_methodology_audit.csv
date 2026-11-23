@@ -1,0 +1,7 @@
+item,value
+Selected model,xgboost_restrained
+Holdout status,2025-26 revealed once in Stage 5A; evaluation-only
+Calibration treatment,Diagnostics only; no calibrator fit on holdout
+TreeSHAP sample,25000 deterministic evenly spaced final-test rows
+TreeSHAP scale,Log-odds contribution
+Model retuned in Stage 5B,FALSE

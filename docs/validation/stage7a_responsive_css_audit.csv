@@ -1,0 +1,5 @@
+check,passed
+CSS contains a <=900px responsive breakpoint,TRUE
+CSS contains a <=560px mobile breakpoint,TRUE
+KPI grid has mobile-responsive rules,TRUE
+Shot-detail grid has mobile-responsive rules,TRUE

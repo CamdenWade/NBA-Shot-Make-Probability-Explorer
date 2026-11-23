@@ -1,0 +1,18 @@
+check,passed
+app.R exists,TRUE
+R/app_helpers.R exists,TRUE
+R/court_helpers.R exists,TRUE
+www/custom.css exists,TRUE
+Shot-chart app artifact exists,TRUE
+Shot-chart rows match frozen 2025-26 test population,TRUE
+Shot-chart outcome is complete,TRUE
+Shot-chart selected-model probability is complete,TRUE
+Frozen selected model remains restrained XGBoost,TRUE
+Frozen XGBoost feature formula is available,TRUE
+Frozen XGBoost feature names are available,TRUE
+One-row Probability Explorer inference succeeds,TRUE
+One-row explorer probability is finite and strictly between 0 and 1,TRUE
+app.R parses successfully,TRUE
+R/app_helpers.R parses successfully,TRUE
+R/court_helpers.R parses successfully,TRUE
+Stage 5 model-insight bundle is preserved,TRUE

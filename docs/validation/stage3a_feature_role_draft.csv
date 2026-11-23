@@ -1,0 +1,35 @@
+feature,draft_role,rationale
+court_x_folded,candidate_predictive,Spatial shot location
+court_y_folded,candidate_predictive,Spatial shot location
+distance_to_rim_check_ft,candidate_predictive,Core shot-difficulty geometry
+absolute_angle_deg,candidate_predictive,Court geometry
+is_three_geometry,candidate_predictive,Attempt value inferred from official court geometry
+is_corner_three_geometry,candidate_predictive,Corner-three geometry
+shot_zone_geometry,candidate_predictive,Interpretable spatial zone
+distance_band,candidate_predictive,Interpretable distance grouping
+shot_type_group,candidate_predictive,Pre-shot action/type descriptor
+is_bank_shot,candidate_predictive,Pre-shot action tag
+is_driving,candidate_predictive,Pre-shot action tag
+is_running,candidate_predictive,Pre-shot action tag
+is_cutting,candidate_predictive,Pre-shot action tag
+is_alley_oop,candidate_predictive,Pre-shot action tag
+is_putback,candidate_predictive,Pre-shot action tag
+is_turnaround,candidate_predictive,Pre-shot action tag
+is_fadeaway,candidate_predictive,Pre-shot action tag
+period_number,candidate_predictive,Game period known before shot
+clock_seconds_remaining,candidate_predictive,Game clock known before shot
+is_overtime,candidate_predictive,Game context
+period_group,candidate_predictive,Interpretable period group
+game_phase,candidate_predictive,Interpretable game phase
+is_last_2_minutes_period,candidate_predictive,End-period context
+is_last_24_seconds_period,candidate_predictive,End-period context
+is_last_5_seconds_period,candidate_predictive,End-period context
+is_home_shooter,candidate_predictive,Home/away context
+team_id,exploration_only,Keep for filtering; high-cardinality identity not approved yet
+team_abbrev_canonical,exploration_only,Keep for filtering; team identity not approved yet
+shooter_id,exploration_only,Keep for player filters; player identity not approved yet
+shooter_name,exploration_only,Display label only
+nba_season,validation_split_only,"Used for chronological validation, not final core predictor"
+outcome,target_only,Prediction target; never a predictor
+score_value,prohibited_leakage,Outcome leakage in ESPN shot release
+scoring_play,prohibited_leakage,Outcome indicator; prohibited as predictor

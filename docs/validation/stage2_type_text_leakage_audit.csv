@@ -1,0 +1,52 @@
+type_text,contains_outcome_language,rows
+Jump Shot,FALSE,190458
+Pullup Jump Shot,FALSE,77140
+Driving Layup Shot,FALSE,57663
+Driving Floating Jump Shot,FALSE,35634
+Step Back Jump Shot,FALSE,33805
+Running Layup Shot,FALSE,21438
+Driving Finger Roll Layup,FALSE,17684
+Running Jump Shot,FALSE,16977
+Cutting Layup Shot,FALSE,16508
+Layup Shot,FALSE,14776
+Tip Shot,FALSE,14220
+Fade Away Jump Shot,FALSE,12085
+Floating Jump Shot,FALSE,12054
+Layup Shot Putback,FALSE,10994
+Turnaround Fade Away Jump Shot,FALSE,9987
+Cutting Dunk Shot,FALSE,9655
+Driving Floating Bank Jump Shot,FALSE,9121
+Running Pullup Jump Shot,FALSE,8812
+Running Dunk Shot,FALSE,8333
+Turnaround Jump Shot,FALSE,8066
+Turnaround Hook Shot,FALSE,7335
+Layup Driving Reverse,FALSE,6706
+Driving Dunk Shot,FALSE,6019
+Hook Shot,FALSE,5024
+Alley Oop Dunk Shot,FALSE,4969
+Running Finger Roll Layup,FALSE,4923
+Driving Hook Shot,FALSE,4794
+Dunk Shot,FALSE,4201
+Reverse Layup Shot,FALSE,3637
+Tip Dunk Shot,FALSE,2488
+Alley Oop Layup Shot,FALSE,2331
+Cutting Finger Roll Layup Shot,FALSE,2127
+Layup Running Reverse,FALSE,1858
+Running Alley Oop Dunk Shot,FALSE,1648
+Putback Dunk Shot,FALSE,1583
+Pullup Bank Jump Shot,FALSE,1559
+Jump Shot Bank,FALSE,1239
+Driving Jump Shot Bank,FALSE,1197
+Finger Roll Layup,FALSE,1081
+Hook Driving Bank,FALSE,1014
+Turnaround Bank Jump Shot,FALSE,913
+Hook Turnaround Bank,FALSE,657
+Fade Away Bank Jump Shot,FALSE,596
+Running Alley Oop Layup Shot,FALSE,576
+Hook Shot Bank,FALSE,379
+Reverse Dunk Shot,FALSE,332
+Turnaround Fadeaway Bank Jump Shot,FALSE,301
+Step Back Bank Jump Shot,FALSE,238
+Driving Reverse Dunk Shot,FALSE,127
+Running Reverse Dunk Shot,FALSE,99
+No Shot (Default Shot),FALSE,14

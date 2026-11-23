@@ -1,0 +1,2 @@
+model,weighted_log_loss,weighted_brier,weighted_mean_predicted_probability,weighted_observed_make_rate,validation_rows
+xgboost_restrained,0.63934751375699606,0.22519891105678902,0.4718218626200516,0.47078193995960793,438205

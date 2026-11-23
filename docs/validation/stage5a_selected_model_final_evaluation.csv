@@ -1,0 +1,2 @@
+selected_model,validation_weighted_log_loss,validation_weighted_brier,test_log_loss,test_brier,test_observed_make_rate,test_mean_predicted_probability,test_calibration_intercept,test_calibration_slope,test_rank,selected_before_test_reveal,holdout_now_revealed
+xgboost_restrained,0.63934751375699606,0.22519891105678905,0.6372511302897135,0.22417892348855778,0.46860076788513527,0.47002471189927647,-0.006324174055334023,1.026858101372664,1,TRUE,TRUE

@@ -1,0 +1,3 @@
+fold,model,train_rows,validation_rows,selected_rounds,internal_cutoff_date,internal_fit_rows,internal_early_stop_rows,best_internal_logloss,round_selection_source,log_loss,brier,mean_predicted_probability,observed_make_rate,calibration_intercept,calibration_slope
+fold1,xgboost_restrained,217156,218682,447,2023-03-22,192451,24705,0.6385367271924485,xgb.attr,0.6392651720933598,0.22523675951362204,0.4738195931936878,0.47436002963206847,0.002402873393180009,0.9943112338500353
+fold2,xgboost_restrained,435838,219523,685,2024-03-10,388506,47332,0.6373960991019504,xgb.attr,0.639429539966948,0.22516120759866778,0.469831785419467,0.46721755806908616,-0.011652618583421289,0.9723142026311523

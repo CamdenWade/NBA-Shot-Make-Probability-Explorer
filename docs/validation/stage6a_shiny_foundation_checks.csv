@@ -1,0 +1,15 @@
+check,passed
+File exists: app.R,TRUE
+File exists: R/app_helpers.R,TRUE
+File exists: www/custom.css,TRUE
+File exists: data/app/model_insights_bundle.rds,TRUE
+Performance table has four model families,TRUE
+Exactly one selected model exists,TRUE
+Selected model is restrained XGBoost,TRUE
+20-bin calibration table is available,TRUE
+Segment diagnostics are available,TRUE
+Feature importance is available,TRUE
+Insight cards are available,TRUE
+Key findings are available,TRUE
+app.R parses successfully,TRUE
+R/app_helpers.R parses successfully,TRUE

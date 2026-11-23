@@ -1,0 +1,5 @@
+dataset,hoopr_season,rows,overtime_shots,min_clock,max_regulation_clock,max_overtime_clock,invalid_by_period_length
+development,2023,217161,1470,0,720,297,0
+development,2024,218687,1184,0,717,297,0
+development,2025,219527,1115,0,720,297,0
+final_test,2026,220087,1091,0,720,293,0

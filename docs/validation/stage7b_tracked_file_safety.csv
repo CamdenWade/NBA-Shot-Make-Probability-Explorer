@@ -1,0 +1,4 @@
+pattern,tracked,passed
+.Renviron,FALSE,TRUE
+.env,FALSE,TRUE
+data/raw/,FALSE,TRUE

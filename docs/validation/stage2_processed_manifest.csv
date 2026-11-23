@@ -1,0 +1,3 @@
+dataset,seasons,rows,columns,outcome_included
+shots_development.rds,"2023,2024,2025",655375,30,TRUE
+shots_final_test.rds,2026,220087,29,FALSE

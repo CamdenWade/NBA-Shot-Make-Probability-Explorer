@@ -1,0 +1,8 @@
+split,role,rows
+fold1,not_used,219523
+fold1,train,217156
+fold1,validation,218682
+fold2,train,435838
+fold2,validation,219523
+final_refit,train,655361
+final_test,test,220085

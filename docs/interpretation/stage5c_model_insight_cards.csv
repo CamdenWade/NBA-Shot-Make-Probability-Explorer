@@ -1,0 +1,9 @@
+card_id,title,value,detail
+selected_model,Selected Model,Restrained XGBoost,Chosen before the 2025-26 holdout reveal using weighted chronological validation log-loss.
+final_log_loss,2025-26 Log-Loss,0.637,Primary probability metric on the untouched 2025-26 evaluation season.
+final_brier,2025-26 Brier Score,0.224,Secondary proper scoring rule on the untouched 2025-26 evaluation season.
+holdout_generalization,Validation → Holdout,0.639 → 0.637,Lower is better. The selected model generalized at least as well out of season as it did in validation.
+overall_calibration,Overall Calibration,47.0% predicted vs 46.9% observed,Mean predicted make probability compared with the actual 2025-26 make rate.
+top_feature,Top Model Driver,Distance to Rim (39.1% SHAP share),"TreeSHAP global importance; importance describes model reliance, not causality."
+second_feature,Second Model Driver,Shot Type (21.7% SHAP share),"TreeSHAP global importance; importance describes model reliance, not causality."
+largest_segment_gap,Largest Major Segment Gap,Last 5 Seconds — TRUE: 3.2 pp,"Largest absolute calibration gap among diagnostic segments with at least 1,000 shots. No retuning was performed."

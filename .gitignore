@@ -1,0 +1,24 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# renv local library/cache
+renv/library/
+renv/staging/
+
+# Raw downloaded NBA data
+data/raw/
+
+# Large/local temporary artifacts
+*.tmp
+*.log
+.DS_Store
+
+# Optional local environment files
+.Renviron
+.env
+
+# Large processed modeling datasets
+data/processed/

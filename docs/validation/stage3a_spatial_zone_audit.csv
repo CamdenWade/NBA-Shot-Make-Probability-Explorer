@@ -1,0 +1,25 @@
+hoopr_season,shot_zone_geometry,shots,dataset,season_pct
+2023,Above-the-Break 3,63168,development,0.29088095928827
+2023,Restricted Area,62024,development,0.2856129783893056
+2023,Paint (Non-RA),45089,development,0.20762936254668196
+2023,Mid-Range,25889,development,0.11921569710951782
+2023,Corner 3,20814,development,0.09584593918797574
+2023,Heave / Backcourt,177,development,8.150634782488568e-4
+2024,Above-the-Break 3,64347,development,0.29424245611307487
+2024,Restricted Area,61338,development,0.2804830648369588
+2024,Paint (Non-RA),46229,development,0.2113934527429614
+2024,Mid-Range,24794,development,0.11337665247591307
+2024,Corner 3,21826,development,0.09980474376620467
+2024,Heave / Backcourt,153,development,6.99630064887259e-4
+2025,Above-the-Break 3,69030,development,0.3144487921759055
+2025,Restricted Area,57871,development,0.2636167760685474
+2025,Paint (Non-RA),47712,development,0.21734000829055197
+2025,Corner 3,23216,development,0.10575464521448387
+2025,Mid-Range,21507,development,0.09796972581960306
+2025,Heave / Backcourt,191,development,8.700524309082709e-4
+2026,Above-the-Break 3,68255,final_test,0.31012735872632186
+2026,Restricted Area,58764,final_test,0.26700350316011395
+2026,Paint (Non-RA),47319,final_test,0.21500134037903193
+2026,Corner 3,23196,final_test,0.10539468482918118
+2026,Mid-Range,22348,final_test,0.1015416630696043
+2026,Heave / Backcourt,205,final_test,9.314498357467729e-4

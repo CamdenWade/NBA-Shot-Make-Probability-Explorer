@@ -1,0 +1,53 @@
+type_id,type_text,season_2023,season_2024,season_2025,season_2026
+92,Jump Shot,TRUE,TRUE,TRUE,TRUE
+131,Pullup Jump Shot,TRUE,TRUE,TRUE,TRUE
+110,Driving Layup Shot,TRUE,TRUE,TRUE,TRUE
+144,Driving Floating Jump Shot,TRUE,TRUE,TRUE,TRUE
+132,Step Back Jump Shot,TRUE,TRUE,TRUE,TRUE
+109,Running Layup Shot,TRUE,TRUE,TRUE,TRUE
+95,Layup Shot,TRUE,TRUE,TRUE,TRUE
+128,Driving Finger Roll Layup,TRUE,TRUE,TRUE,TRUE
+141,Cutting Layup Shot,TRUE,TRUE,TRUE,TRUE
+94,Tip Shot,TRUE,TRUE,TRUE,TRUE
+113,Running Jump Shot,TRUE,TRUE,TRUE,TRUE
+130,Floating Jump Shot,TRUE,TRUE,TRUE,TRUE
+121,Fade Away Jump Shot,TRUE,TRUE,TRUE,TRUE
+125,Layup Shot Putback,TRUE,TRUE,TRUE,TRUE
+151,Cutting Dunk Shot,TRUE,TRUE,TRUE,TRUE
+137,Turnaround Fade Away Jump Shot,TRUE,TRUE,TRUE,TRUE
+145,Driving Floating Bank Jump Shot,TRUE,TRUE,TRUE,TRUE
+114,Turnaround Jump Shot,TRUE,TRUE,TRUE,TRUE
+146,Running Pullup Jump Shot,TRUE,TRUE,TRUE,TRUE
+116,Running Dunk Shot,TRUE,TRUE,TRUE,TRUE
+120,Turnaround Hook Shot,TRUE,TRUE,TRUE,TRUE
+126,Layup Driving Reverse,TRUE,TRUE,TRUE,TRUE
+115,Driving Dunk Shot,TRUE,TRUE,TRUE,TRUE
+93,Hook Shot,TRUE,TRUE,TRUE,TRUE
+96,Dunk Shot,TRUE,TRUE,TRUE,TRUE
+118,Alley Oop Dunk Shot,TRUE,TRUE,TRUE,TRUE
+119,Driving Hook Shot,TRUE,TRUE,TRUE,TRUE
+129,Running Finger Roll Layup,TRUE,TRUE,TRUE,TRUE
+112,Reverse Layup Shot,TRUE,TRUE,TRUE,TRUE
+150,Tip Dunk Shot,TRUE,TRUE,TRUE,TRUE
+111,Alley Oop Layup Shot,TRUE,TRUE,TRUE,TRUE
+142,Cutting Finger Roll Layup Shot,TRUE,TRUE,TRUE,TRUE
+127,Layup Running Reverse,TRUE,TRUE,TRUE,TRUE
+138,Putback Dunk Shot,TRUE,TRUE,TRUE,TRUE
+133,Pullup Bank Jump Shot,TRUE,TRUE,TRUE,TRUE
+149,Running Alley Oop Dunk Shot,TRUE,TRUE,TRUE,TRUE
+134,Driving Jump Shot Bank,TRUE,TRUE,TRUE,TRUE
+122,Jump Shot Bank,TRUE,TRUE,TRUE,TRUE
+124,Finger Roll Layup,TRUE,TRUE,TRUE,TRUE
+139,Hook Driving Bank,TRUE,TRUE,TRUE,TRUE
+136,Turnaround Bank Jump Shot,TRUE,TRUE,TRUE,TRUE
+140,Hook Turnaround Bank,TRUE,TRUE,TRUE,TRUE
+135,Fade Away Bank Jump Shot,TRUE,TRUE,TRUE,TRUE
+143,Running Alley Oop Layup Shot,TRUE,TRUE,TRUE,TRUE
+123,Hook Shot Bank,TRUE,TRUE,TRUE,TRUE
+117,Reverse Dunk Shot,TRUE,TRUE,TRUE,TRUE
+148,Turnaround Fadeaway Bank Jump Shot,TRUE,TRUE,TRUE,TRUE
+147,Step Back Bank Jump Shot,TRUE,TRUE,TRUE,TRUE
+152,Driving Reverse Dunk Shot,TRUE,TRUE,TRUE,TRUE
+153,Running Reverse Dunk Shot,TRUE,TRUE,TRUE,TRUE
+91,No Shot (Default Shot),TRUE,TRUE,TRUE,TRUE
+282,Heave Jump Shot,FALSE,FALSE,FALSE,TRUE
