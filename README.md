@@ -2,6 +2,13 @@
 
 A public NBA analytics portfolio project that estimates pre-shot make probability using reproducible R modeling, chronological validation, an untouched final holdout, and an interactive Shiny application.
 
+
+## Live Application
+
+**Live Shiny app:** https://camden-wade.shinyapps.io/nba-shot-make-probability-explorer/
+
+**GitHub repository:** https://github.com/CamdenWade/NBA-Shot-Make-Probability-Explorer
+
 ## Project Overview
 
 The goal of this project is not simply to classify shots as makes or misses. It is to estimate **well-calibrated make probabilities** from information available before the shot result is known.
